@@ -50,12 +50,11 @@ https://api.jsonserve.com/Uw5CrX
 ```
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/eb953cfa-4f5c-45f7-9baf-f01f8e781269)
+![image](https://github.com/user-attachments/assets/a0030435-ec3f-4281-9598-d7e49ed9d54e)
+![image](https://github.com/user-attachments/assets/be1e70e5-1be1-40c5-8080-1f1b46bbc555)
 
-![Quiz Start Screen](https://images.unsplash.com/photo-1516321497487-e288fb19713f?q=80&w=2070&auto=format&fit=crop)
 
-![Quiz Question Screen](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2070&auto=format&fit=crop)
-
-![Quiz Results Screen](https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=2070&auto=format&fit=crop)
 
 ## License
 
